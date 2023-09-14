@@ -1,6 +1,6 @@
 import React from "react";
 import Censored from "../components/censored";
-import HitCounter from "../components/visitor";
+import HitCounter from "../components/hitcounter";
 
 function Home() {
   return (
